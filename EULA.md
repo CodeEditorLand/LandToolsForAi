@@ -48,7 +48,7 @@ HAVE THE RIGHTS BELOW. BY USING THE SOFTWARE, YOU ACCEPT THESE TERMS.
    maintain a prominent privacy policy that accurately informs users about how
    you use, collect, and share their data. You can learn more about Microsoft’s
    data collection and use in the product documentation and the Microsoft
-   Privacy Statement at https://go.microsoft.com/fwlink/?LinkId=512132. You
+   Privacy Statement at HTTPS://go.microsoft.com/fwlink/?LinkId=512132. You
    agree to comply with all applicable provisions of the Microsoft Privacy
    Statement.
 6. **SCOPE OF LICENSE**. The software is licensed, not sold. Microsoft reserves
@@ -64,7 +64,7 @@ HAVE THE RIGHTS BELOW. BY USING THE SOFTWARE, YOU ACCEPT THESE TERMS.
 7. **EXPORT RESTRICTIONS.** You must comply with all domestic and international
    export laws and regulations that apply to the software, which include
    restrictions on destinations, end users, and end use. For further information
-   on export restrictions, visit http://aka.ms/exporting.
+   on export restrictions, visit HTTP://aka.ms/exporting.
 8. **SUPPORT SERVICES.** Microsoft is not obligated under this agreement to
    provide any support services for the software. Any support provided is “as
    is”, “with all faults”, and without warranty of any kind.
@@ -85,7 +85,7 @@ HAVE THE RIGHTS BELOW. BY USING THE SOFTWARE, YOU ACCEPT THESE TERMS.
     attorney-general actions, and any other proceeding where someone acts in a
     representative capacity are not allowed; nor is combining individual
     proceedings without the consent of all parties. The complete Arbitration
-    Agreement contains more terms and is at http://aka.ms/arb-agreement-1. You
+    Agreement contains more terms and is at HTTP://aka.ms/arb-agreement-1. You
     and Microsoft agree to these terms.
 11. **ENTIRE AGREEMENT.** This agreement, and any other terms Microsoft may
     provide for supplements, updates, or third-party applications, is the entire
